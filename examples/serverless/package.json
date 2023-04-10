@@ -14,7 +14,7 @@
 		"example": "echo \"test\"; `#specifying host due to WSL limits`"
 	},
 	"dependencies": {
-		"aws-sdk": "^2.1092.0",
+		"aws-sdk": "^2.1354.0",
 		"tslib": "^2.3.1"
 	},
 	"devDependencies": {
